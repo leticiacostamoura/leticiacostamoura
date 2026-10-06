@@ -27,14 +27,22 @@ Outros: Git, GitHub, REST APIs e IoT
 ☁️ Aprofundando conhecimentos em computação em nuvem, arquitetura e engenharia de plataforma.
 
 🚀 Projetos em destaque
-API de Pedidos
-API REST para gerenciamento de pedidos desenvolvida com Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic e Docker.
 
-Energy Dash
-Aplicação desenvolvida em Java para visualização e análise de informações relacionadas ao consumo de energia.
+🚗 Sistema Free Flow
 
-Urban Channel
-Projeto web acadêmico desenvolvido com HTML e CSS sobre mobilidade urbana sustentável.
+Protótipo acadêmico desenvolvido para o TCC, integrando IoT, computação em nuvem e Inteligência Artificial em um fluxo de cobrança automática de pedágio Free Flow. O sistema utiliza ESP32 e RFID para captura de passagens, backend em FastAPI, PostgreSQL/Supabase e modelos Isolation Forest para análise de eventos e identificação de anomalias.
+
+📦 API de Pedidos
+
+API REST para gerenciamento de pedidos desenvolvida com Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic e Docker, incluindo operações CRUD e ambiente reproduzível com Docker Compose.
+
+⚡ Energy Dash
+
+Aplicação desktop desenvolvida em Java para análise do consumo de energia elétrica, acompanhamento de metas de redução e geração de gráficos e projeções utilizando JFreeChart.
+
+🌱 Urban Channel
+
+Projeto web acadêmico desenvolvido com HTML e CSS, voltado à apresentação de conteúdos relacionados à mobilidade urbana sustentável.
 
 📫 Contato
 LinkedIn: [Letícia Costa de Moura](https://www.linkedin.com/in/leticiacostademoura)
