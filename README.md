@@ -1,4 +1,4 @@
-## Olá! Eu sou a Leticia :)
+## Olá! Eu sou a Leticia 👋
 
 Sou graduanda em Ciência da Computação pela Universidade Paulista (UNIP) e atuo na área de resiliência tecnológica, com interesse em computação em nuvem, resiliência de sistemas, arquitetura de soluções e desenvolvimento de software.
 
@@ -25,7 +25,9 @@ Ao longo da graduação e da minha experiência profissional, venho desenvolvend
 
 ## 📚 Atualmente
 🎓 Bacharelado em Ciência da Computação — UNIP
-💻 Analista de Engenharia de Plataforma de TI Pl - Itaú Unibanco
+
+💻 Analista de Engenharia de Plataforma de TI Pleno - Itaú Unibanco
+
 ☁️ Aprofundando conhecimentos em computação em nuvem, arquitetura e engenharia de plataforma.
 
 ## 🚀 Projetos em destaque
