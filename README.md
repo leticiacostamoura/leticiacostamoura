@@ -37,7 +37,7 @@ Urban Channel
 Projeto web acadêmico desenvolvido com HTML e CSS sobre mobilidade urbana sustentável.
 
 📫 Contato
-LinkedIn: Letícia Costa de Moura
+LinkedIn: [Letícia Costa de Moura](https://www.linkedin.com/in/leticiacostademoura)
 <!--
 **leticiacostamoura/leticiacostamoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
